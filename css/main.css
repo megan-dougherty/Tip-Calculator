@@ -1,0 +1,38 @@
+
+body {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	background-image: url('../img/background.jpg');
+	background-position: cover;
+	background-repeat: no-repeat;
+
+}
+
+.info {
+	font-family: 'Oswald', sans-serif;
+	width: 40%;
+    padding: 40px;
+    position: relative;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: rgba(34,59,68, .8);
+	border-radius: 20px;
+    color: white;
+}
+
+span {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+}
+
+.info h1 {
+	text-align: center;
+	margin-top: 5px;
+	font-size: 40px;
+}
+
+.info h2 {
+	text-align: center;
+}
